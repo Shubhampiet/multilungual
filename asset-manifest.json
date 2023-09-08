@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/multilungual/static/css/main.da3089f3.css",
+    "main.js": "/multilungual/static/js/main.9c318e2e.js",
+    "index.html": "/multilungual/index.html",
+    "static/media/getFetch.cjs": "/multilungual/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.da3089f3.css.map": "/multilungual/static/css/main.da3089f3.css.map",
+    "main.9c318e2e.js.map": "/multilungual/static/js/main.9c318e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.9c318e2e.js"
+  ]
+}
